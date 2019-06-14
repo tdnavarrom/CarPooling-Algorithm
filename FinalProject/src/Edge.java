@@ -19,10 +19,6 @@ public class Edge implements Comparable<Edge> {
       return this.cost;
     }
 
-    public void setCostEdge(int cost){
-       this.cost = cost;
-    }
-
     @Override
     public int compareTo(Edge edge) {
         return Integer.compare(this.cost, edge.getCost());
