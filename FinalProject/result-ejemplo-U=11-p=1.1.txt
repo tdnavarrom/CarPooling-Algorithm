@@ -1,0 +1,5 @@
+Node Car: 11 Nodes to pick up: 11-6-9-
+Node Car: 7 Nodes to pick up: 7-2-
+Node Car: 8 Nodes to pick up: 8-10-
+Node Car: 5 Nodes to pick up: 5-
+Node Car: 4 Nodes to pick up: 4-3-
